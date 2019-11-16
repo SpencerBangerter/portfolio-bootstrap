@@ -4,12 +4,21 @@
     padding:0;
 }
 
+body {
+    background-image: url('images/topography.png');
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777777;
+
+}
+
 /* NAVBAR CSS OVERRIDE */
 
 .navbar{
     background: white;
     padding:0;
     border-bottom: 2px solid silver;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .navbar-brand {
@@ -39,11 +48,4 @@
     text-decoration: underline;
 }
 
-body {
-    background: red;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    font-size: 18px;
-    color: #777777;
-
-}
 
