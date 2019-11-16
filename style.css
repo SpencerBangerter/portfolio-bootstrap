@@ -1,4 +1,49 @@
-.navbar-brand {
-    color: white !important;
-    background: #4aaaa5 !important;
+
+.container{ 
+    max-width: 960px;
+    padding:0;
 }
+
+/* NAVBAR CSS OVERRIDE */
+
+.navbar{
+    background: white;
+    padding:0;
+    border-bottom: 2px solid silver;
+}
+
+.navbar-brand {
+    color: white;
+    background: #4aaaa5;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.navbar-brand:hover {
+    color:white;
+    text-decoration: underline;
+}
+
+.nav-link {
+    padding: 0;
+    color:silver;
+    border-right: 1px solid silver;
+}
+
+#collapsibleNavId > ul > li:nth-child(3) > a {
+    border-right: 0px;
+}
+
+.nav-link:hover {
+    color: silver;
+    text-decoration: underline;
+}
+
+body {
+    background: red;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777777;
+
+}
+
