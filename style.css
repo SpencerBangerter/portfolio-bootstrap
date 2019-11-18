@@ -48,3 +48,18 @@ body {
     color: silver;
     text-decoration: underline;
 }
+
+
+/* FOOTER CSS OVERRIDE */
+
+#sticky-footer {
+    position: absolute;
+    bottom: 0;
+    background: #666666 !important;
+    color: lightgray !important;
+    border-top: 8px solid #4aaaa5;
+    text-align: center;
+    font-size: 10px !important;
+    width: 100%;
+    padding: 15px !important;
+}
