@@ -61,7 +61,10 @@ body {
     font-weight: bold;
 }
 
-
+#bioImage{
+    margin: 15px;
+    width: 30%;
+}
 /* FOOTER CSS OVERRIDE */
 
 #sticky-footer {
