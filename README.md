@@ -19,8 +19,10 @@ This is a responsive version of Spencer Bangerter's portfolio.
 
 ## Credits
 
-I used helpful guidance from the following people directly.
+I used helpful guidance from the following people and places directly.
 
+https://getbootstrap.com/
+https://www.w3schools.com/
 https://github.com/jbejar
 https://github.com/Modern-Viking 
 https://github.com/MR-TYLER31
