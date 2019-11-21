@@ -8,16 +8,18 @@ This is a responsive version of Spencer Bangerter's portfolio.
 ## Contents
 
 - About Me Page
-
+- Click the links at the top to navigate to each page.
+![Screenshot of About Me page](images)
 - Contact Page
-
+- Enter your contact information to reach out to me. It will direct you to a captcha verification and send me an email with your message.
+![Screenshot of Contact page](images)
 - Portfolio Page
-
-## Usage
+- This is a list of all my projects I've done so far. *Note: some of them are placeholder images and titles for the time being.
+![Screenshot of Portfolio page](images)
 
 ## Credits
 
-I used helpful guidance from the following people. 
+I used helpful guidance from the following people directly.
 
 https://github.com/jbejar
 https://github.com/Modern-Viking 
