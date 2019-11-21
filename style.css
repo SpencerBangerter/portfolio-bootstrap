@@ -77,7 +77,8 @@ input, textarea{
 label {
     text-decoration: underline;
     margin: 0;
-    margin-top: 5px
+    margin-top: 5px;
+    color: #4aaaa5;
 }
 #submitBtn {
     background: #4aaaa5;
