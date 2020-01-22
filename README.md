@@ -3,7 +3,7 @@
 This is a responsive version of Spencer Bangerter's portfolio.
 
 ### link to the deployed website
-- https://spencerbangerter.github.io/portfolio-bootstrap/
+- https://spencerbangerter.github.io/spencer-bangerter-responsive-portfolio/
 
 ## Contents
 
