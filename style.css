@@ -18,12 +18,18 @@ a:hover {
 }
 /* NAVBAR CSS OVERRIDE */
 
+.navbarcontainer{
+   background: #666666 !important;
+}
+
 .navbar{
-    background: d3d3d3;
+    background:  #666666;
     padding:0;
     border-bottom: 2px solid red;
     margin-bottom: 20px;
+    border-top: 6px solid #437aad;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    
 }
 
 .navbar-brand {
@@ -40,7 +46,7 @@ a:hover {
 
 .nav-link {
     padding: 0;
-    color:#437aad;
+    color:white;
     border-right: 1px solid red;
 }
 
@@ -126,5 +132,8 @@ label {
     color: lightgray;
     border-top: 6px solid #437aad;
     padding:10px;
-    border-bottom: 2px red solid;
+    box-shadow:0px -3px 0px red inset;
+}
+.gitIcon{
+    height: 30px;
 }
