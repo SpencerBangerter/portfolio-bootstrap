@@ -44,7 +44,7 @@ a:hover {
     border-right: 1px solid red;
 }
 
-#collapsibleNavId > ul > li:nth-child(3) > a {
+#collapsibleNavId > ul > li:nth-child(4) > a {
     border-right: 0px;
 }
 
@@ -124,6 +124,7 @@ label {
     text-align: center;
     background: #666666;
     color: lightgray;
-    border-top: 8px solid #437aad;
+    border-top: 6px solid #437aad;
     padding:10px;
+    border-bottom: 2px red solid;
 }
