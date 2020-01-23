@@ -19,16 +19,16 @@ a:hover {
 /* NAVBAR CSS OVERRIDE */
 
 .navbar{
-    background: white;
+    background: d3d3d3;
     padding:0;
-    border-bottom: 2px solid silver;
+    border-bottom: 2px solid red;
     margin-bottom: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .navbar-brand {
     color: white;
-    background: #4aaaa5;
+    background: #437aad;
     padding: 20px;
     font-size: 25px;
 }
@@ -40,8 +40,8 @@ a:hover {
 
 .nav-link {
     padding: 0;
-    color:silver;
-    border-right: 1px solid silver;
+    color:#437aad;
+    border-right: 1px solid red;
 }
 
 #collapsibleNavId > ul > li:nth-child(3) > a {
@@ -57,9 +57,9 @@ a:hover {
 /* BODY OVERRIDE */
 
 .bodyHeader{
-    color: #4aaaa5;
+    color: #437aad;
     padding: 20px;
-    border-bottom: 2px lightgray solid;
+    border-bottom: 2px red solid;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
 }
@@ -83,11 +83,11 @@ label {
     text-decoration: underline;
     margin: 0;
     margin-top: 5px;
-    color: #4aaaa5;
+    color: #437aad;
 }
 
 #submitBtn {
-    background: #4aaaa5;
+    background: #437aad;
     color: white;
     font-size: 1em;
     margin-bottom: 20px;
@@ -104,7 +104,7 @@ label {
     width: 100% !important;
     bottom: 5%;
     left: 0;
-    background: #4aaaa5;
+    background: #437aad;
     margin: 0;
     padding: 2%;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
@@ -124,6 +124,6 @@ label {
     text-align: center;
     background: #666666;
     color: lightgray;
-    border-top: 8px solid #4aaaa5;
+    border-top: 8px solid #437aad;
     padding:10px;
 }
