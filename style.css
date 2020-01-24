@@ -129,6 +129,10 @@ label {
 
 #moodImg {
     margin-top: 35px;
+    width: 90%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #quizzerImg {
