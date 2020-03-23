@@ -135,6 +135,14 @@ label {
     margin-right: auto;
 }
 
+#saltCityServImg {
+    margin-top: 25px;
+    width: 60%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #quizzerImg {
     margin-top: 55px;
 }
